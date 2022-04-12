@@ -7,8 +7,8 @@
 ### <a href="mailto:csl.lira@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Write to me"></a>
 <div align="center">
   <a href="https://github.com/cristianolira374">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cristianolira374&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristianolira374&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=cristianolira374&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristianolira374&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Ts" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
